@@ -13,7 +13,7 @@ then hover over the code which appears on the right and check every block until 
 
 when you find that code, right click on that code and click on copy --> copy outerHTML
 
-<video src="assets/1.mp4" width="320" height="240" controls></video>
+https://github.com/user-attachments/assets/90efb12b-b699-4889-b2f7-532125b59b94
 
 ## STEP 2
 
