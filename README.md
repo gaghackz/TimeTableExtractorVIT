@@ -11,6 +11,8 @@ then hover over the code which appears on the right and check every block until 
 
 when you find that code, right click on that code and click on copy --> copy outerHTML
 
+<video src="timetable vit/assets/1.mp4" width="320" height="240" controls></video>
+
 ## STEP 2
 
 now paste that html you copied in a html file named as "timetable.html" and save it in the same folder as timetable.py
