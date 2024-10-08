@@ -1,6 +1,8 @@
 # timeTableExtractorVIT
 Helps converting your VTOP timetable into an ics format so you can import it in your calender apps
 
+special thanks to [Bharat1910](https://github.com/Bharath1910)
+
 # How to use this code:
 
 ## STEP 1:
